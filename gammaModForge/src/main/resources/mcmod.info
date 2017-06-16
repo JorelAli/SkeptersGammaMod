@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skeptersgammamod",
+  "name": "Skepter's Gamma Mod",
+  "description": "Allows you to toggle gamma with a single key",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skepter"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
