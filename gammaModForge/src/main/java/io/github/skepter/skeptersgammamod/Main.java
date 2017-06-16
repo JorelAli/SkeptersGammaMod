@@ -1,4 +1,4 @@
-package io.github.skepter.skeptermod;
+package io.github.skepter.skeptersgammamod;
 
 import org.lwjgl.input.Keyboard;
 
